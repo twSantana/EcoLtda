@@ -7,7 +7,7 @@ export function Footer() {
         <div className="grid md:grid-cols-3 gap-12 mb-8">
           <div>
             <div className="flex items-center space-x-3 mb-4">
-              <img src="/img/logo.png" alt="EcoAção Logo" className="w-8 h-8" />
+              <img src="/img/logo-v2.png" alt="EcoAção Logo" className="w-8 h-8" />
               <div>
                 <h3 className="text-xl font-bold text-white">EcoAção</h3>
                 <p className="text-xs text-gray-400">Coleta Industrial Ágil</p>
